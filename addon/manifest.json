@@ -1,0 +1,8 @@
+{
+  "package": "anki_star",
+  "name": "Anki Star",
+  "homepage": "https://github.com/MilesatAshvantAnand/anki-star",
+  "conflicts": [],
+  "min_point_version": 250902,
+  "mod": 1792886400
+}
